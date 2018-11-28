@@ -1,0 +1,16 @@
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack>dotnet run
+Please enter your name to start the game!
+d
+d got the Ace of Diamonds.
+d got the Queen of Clubs.
+The dealer got the 2 of Clubs.
+The dealer has 2 points.
+d has 21 points.
+Blackjack!
+The dealer's hidden card is Queen of Spades.
+The dealer has 12.
+The dealer got the 9 of Spades.
+The dealer has 21.
+d Won.
+
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack>

@@ -1,0 +1,11 @@
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\bin\Debug\netcoreapp2.1\BlackJack.deps.json
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\bin\Debug\netcoreapp2.1\BlackJack.runtimeconfig.json
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\bin\Debug\netcoreapp2.1\BlackJack.runtimeconfig.dev.json
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\bin\Debug\netcoreapp2.1\BlackJack.dll
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\bin\Debug\netcoreapp2.1\BlackJack.pdb
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.csprojAssemblyReference.cache
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.AssemblyInfo.cs
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.dll
+C:\Users\keifuku\Documents\coding_practices\c_sharp_stack\oop\BlackJack\obj\Debug\netcoreapp2.1\BlackJack.pdb

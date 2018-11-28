@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\keifuku\\Documents\\coding_practices\\c_sharp_stack\\oop\\BlackJack\\BlackJack.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
